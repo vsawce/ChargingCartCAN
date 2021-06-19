@@ -1,0 +1,13 @@
+; C:\Users\vsaw3\Desktop\SRE\vsawce\ChargingCartCAN\pcan_test_cases.xmt
+;   CAN messages saved by PCAN-View v4.3.0.596
+;
+; Columns descriptions:
+; ~~~~~~~~~~~~~~~~~~~~~
+; +Message ID
+; |            +Cycle time in ms (0=manual)
+; |            |  +Data length
+; |            |  |  +Frame type
+; |            |  |  |  +Message data
+; |            |  |  |  |
+611h           0  8  D 00h 00h 00h 00h EEh 61h 00h 00h
+610h           0  8  D 01h 00h 00h 00h 00h 00h 00h 00h ; NLG5_S_HE
